@@ -1,6 +1,6 @@
 # React App Web - Clone Youtube UI
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projecto foi desenvolvido com reactjs
 
 ## Scripts Disponíveis
 
